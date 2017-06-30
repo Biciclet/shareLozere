@@ -1,5 +1,4 @@
-<?php
-?>
+<!--Ange MONDOLONI - ERN Simplon Narbonne  -->
 
 <!DOCTYPE html>
 <html>
@@ -46,7 +45,7 @@
 </div>
 
 <footer>
-  <p>Vous êtes connecté en tant que <span><strong>Véro Fleurs</strong></span></p>
+  <p>Vous êtes connecté en tant que <span><strong>Gérard Fleurs</strong></span></p>
 
 </footer>
 

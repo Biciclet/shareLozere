@@ -139,7 +139,7 @@
           </div>
         </div>
         <footer>
-            <p>Vous êtes connecté en tant que <span><strong>Marc Fleurs</strong></span></p>
+            <p>Vous êtes connecté en tant que <span><strong>Jean Code</strong></span></p>
         </footer>
         <?php
         include ("connexion.php");
